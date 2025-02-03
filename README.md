@@ -1,7 +1,7 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
 Collections:
-Python Projects (x8).
+Python Projects (x10).
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -9,9 +9,11 @@ Python Projects (x8).
 5. blackjack,
 6. number guessing,
 7. higher or lower,
-8. coffee machine. 
+8. coffee machine,
+9. coffee machine OOP,
+10. q and a OOP. 
    
-Machine Learning Projects (x15). 
+Machine Learning Projects (x18). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -26,7 +28,10 @@ Machine Learning Projects (x15).
 12. naive bayes,
 13. decision tree classification,
 14. random forest classification,
-15. K-means clustering. 
+15. K-means clustering,
+16. hierarchical clustering,
+17. association rule learning: apriori,
+18. association rule learning: elcat. 
 
 
 
