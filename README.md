@@ -1,7 +1,7 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
 Collections:
-Python Projects (x10).
+Python Projects (x11).
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -14,7 +14,7 @@ Python Projects (x10).
 10. q and a OOP,
 11. GUI: random walk.
    
-Machine Learning Projects (x18). 
+Machine Learning Projects (x20). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
