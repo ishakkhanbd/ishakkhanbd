@@ -11,7 +11,8 @@ Python Projects (x10).
 7. higher or lower,
 8. coffee machine,
 9. coffee machine OOP,
-10. q and a OOP. 
+10. q and a OOP,
+11. GUI: random walk.
    
 Machine Learning Projects (x18). 
 1. missing data,
