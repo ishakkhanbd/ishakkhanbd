@@ -32,7 +32,9 @@ Machine Learning Projects (x18).
 15. K-means clustering,
 16. hierarchical clustering,
 17. association rule learning: apriori,
-18. association rule learning: elcat. 
+18. association rule learning: elcat,
+19. reinforcement learning: upper confidence bound,
+20. reinforcement learning: Thomson sampling. 
 
 
 
