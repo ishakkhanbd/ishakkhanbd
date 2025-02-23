@@ -13,7 +13,9 @@ Python Projects (x12).
 9. coffee machine OOP,
 10. q and a OOP,
 11. GUI: random walk,
-12. GUI: turtle race.
+12. GUI: turtle race,
+13. GUI: snake game,
+14. GUI: ping pong game.
    
 Machine Learning Projects (x20). 
 1. missing data,
