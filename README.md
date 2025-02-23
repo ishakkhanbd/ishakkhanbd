@@ -1,7 +1,7 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
 Collections:
-Python Projects (x14).
+Python Projects (x15).
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -15,9 +15,10 @@ Python Projects (x14).
 11. GUI: random walk,
 12. GUI: turtle race,
 13. GUI: snake game,
-14. GUI: ping pong game.
+14. GUI: ping pong game,
+15. GUI: turtle crossing game.
    
-Machine Learning Projects (x20). 
+Machine Learning Projects (x21). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -37,7 +38,8 @@ Machine Learning Projects (x20).
 17. association rule learning: apriori,
 18. association rule learning: elcat,
 19. reinforcement learning: upper confidence bound,
-20. reinforcement learning: Thomson sampling. 
+20. reinforcement learning: Thomson sampling,
+21. ANN: customer churn prediction. 
 
 
 
