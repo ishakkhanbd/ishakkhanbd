@@ -1,7 +1,7 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
 Collections:
-Python Projects (x15).
+Python Projects (x16).
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -16,7 +16,8 @@ Python Projects (x15).
 12. GUI: turtle race,
 13. GUI: snake game,
 14. GUI: ping pong game,
-15. GUI: turtle crossing game.
+15. GUI: turtle crossing game,
+16. GUI: snake game with high score.
    
 Machine Learning Projects (x21). 
 1. missing data,
