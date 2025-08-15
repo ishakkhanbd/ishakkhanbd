@@ -20,7 +20,7 @@ Python Projects (x17).
 16. GUI: snake game with high score,
 17. Bulk email.
    
-Machine Learning Projects (x21). 
+Machine Learning Projects (x22). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -41,7 +41,8 @@ Machine Learning Projects (x21).
 18. association rule learning: elcat,
 19. reinforcement learning: upper confidence bound,
 20. reinforcement learning: Thomson sampling,
-21. ANN: customer churn prediction. 
+21. ANN: customer churn prediction,
+22. Simple Perceptron: Flower classification model. 
 
 
 
