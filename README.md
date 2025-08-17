@@ -23,7 +23,7 @@ Python Projects (x20).
 19. Phonetic alphabet,
 20. Unit converter.
    
-Machine Learning Projects (x25). 
+Machine Learning Projects (x26). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -48,7 +48,8 @@ Machine Learning Projects (x25).
 22. Simple Perceptron: Flower classification model,
 23. Classification of clothes,
 24. Regression: housing prices: sequential API,
-25. Regression: housing prices: functional API. 
+25. Regression: housing prices: functional API,
+26. CNN: classification of clothes. 
 
 
 
