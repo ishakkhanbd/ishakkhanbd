@@ -1,29 +1,8 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
 Collections:
-Python Projects (x20).
-1. password generator,
-2. hangman,
-3. caesar cipher,
-4. calculator,
-5. blackjack,
-6. number guessing,
-7. higher or lower,
-8. coffee machine,
-9. coffee machine OOP,
-10. q and a OOP,
-11. GUI: random walk,
-12. GUI: turtle race,
-13. GUI: snake game,
-14. GUI: ping pong game,
-15. GUI: turtle crossing game,
-16. GUI: snake game with high score,
-17. Bulk email,
-18. US States,
-19. Phonetic alphabet,
-20. Unit converter.
-   
-Machine Learning Projects (x27). 
+
+**Machine Learning Projects (x27). **
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -51,6 +30,32 @@ Machine Learning Projects (x27).
 25. Regression: predicting housing prices: functional API,
 26. CNN: predicting choice of clothes,
 27. CNN: predicting cat vs dog (avoiding overfitting). 
+
+
+
+**Python Projects (x20).**
+1. password generator,
+2. hangman,
+3. caesar cipher,
+4. calculator,
+5. blackjack,
+6. number guessing,
+7. higher or lower,
+8. coffee machine,
+9. coffee machine OOP,
+10. q and a OOP,
+11. GUI: random walk,
+12. GUI: turtle race,
+13. GUI: snake game,
+14. GUI: ping pong game,
+15. GUI: turtle crossing game,
+16. GUI: snake game with high score,
+17. Bulk email,
+18. US States,
+19. Phonetic alphabet,
+20. Unit converter.
+   
+
 
 
 
