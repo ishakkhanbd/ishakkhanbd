@@ -2,7 +2,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 
 Collections:
 
-**Machine Learning Projects (x27).**
+**Machine Learning Projects (x28).**
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -29,7 +29,8 @@ Collections:
 24. Regression: predicting housing prices: sequential API,
 25. Regression: predicting housing prices: functional API,
 26. CNN: predicting choice of clothes,
-27. CNN: predicting cat vs dog (avoiding overfitting). 
+27. CNN: predicting cat vs dog (avoiding overfitting),
+28. CNN: facemask detection. 
 
 
 
