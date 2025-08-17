@@ -34,7 +34,7 @@ Collections:
 
 
 
-**Python Projects (x20).**
+**Python Projects (x21).**
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -54,7 +54,8 @@ Collections:
 17. Bulk email,
 18. US States,
 19. Phonetic alphabet,
-20. Unit converter.
+20. Unit converter,
+21. pomodoro timer.
    
 
 
