@@ -23,7 +23,7 @@ Python Projects (x20).
 19. Phonetic alphabet,
 20. Unit converter.
    
-Machine Learning Projects (x23). 
+Machine Learning Projects (x24). 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -46,7 +46,8 @@ Machine Learning Projects (x23).
 20. reinforcement learning: Thomson sampling,
 21. ANN: customer churn prediction,
 22. Simple Perceptron: Flower classification model,
-23. Classification of clothes. 
+23. Classification of clothes,
+24. Regression: housing prices. 
 
 
 
