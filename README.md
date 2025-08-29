@@ -2,7 +2,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 
 Collections:
 
-**Machine Learning Projects (x28).**
+**Machine Learning Projects (x30).**
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -29,8 +29,10 @@ Collections:
 24. Regression: predicting housing prices: sequential API,
 25. Regression: predicting housing prices: functional API,
 26. CNN: predicting choice of clothes,
-27. CNN: predicting cat vs dog (avoiding overfitting),
-28. CNN: facemask detection. 
+27. **CNN: predicting cat vs dog (avoiding overfitting),**
+28. CNN: facemask detection,
+29. Kaggle project 1: titanic survival prediction,
+30. Kaggle project 2: housing price prediction. 
 
 
 
@@ -47,7 +49,7 @@ Collections:
 10. q and a OOP,
 11. GUI: random walk,
 12. GUI: turtle race,
-13. GUI: snake game,
+13. **GUI: snake game,**
 14. GUI: ping pong game,
 15. GUI: turtle crossing game,
 16. GUI: snake game with high score,
