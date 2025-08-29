@@ -4,7 +4,6 @@ Collections:
 
 **Machine Learning Projects (x30): MLProjects.**
 
-General ML projects (x21): 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -26,8 +25,6 @@ General ML projects (x21):
 19. reinforcement learning: upper confidence bound,
 20. reinforcement learning: Thomson sampling,
 21. ANN: customer churn prediction,
-
-CNN projects using Tensorflow/Keras (x7): 
 22. Simple Perceptron: predicting flower classification,
 23. Classification: predicting classification of clothes,
 24. Regression: predicting housing prices: sequential API,
@@ -35,16 +32,13 @@ CNN projects using Tensorflow/Keras (x7):
 26. CNN: predicting choice of clothes,
 27. **CNN: predicting cat vs dog (avoiding overfitting),**
 28. CNN: facemask detection,
-
-Kaggle projects (x2): 
-29. Kaggle project 1: titanic survival prediction,
-30. Kaggle project 2: housing price prediction,
+29. Kaggle project 1: titanic survival prediction: decision tree,
+30. Kaggle project 2: housing price prediction: random forest regression,
 
 
 
 **Python Projects (x24): PythonProjects.**
 
-General Python coding projects (x10): 
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -55,22 +49,20 @@ General Python coding projects (x10):
 8. coffee machine,
 9. coffee machine OOP,
 10. q and a OOP,
-
-Making GUI/apps projects (x14): 
 11. GUI: random walk,
 12. GUI: turtle race,
 13. **GUI: snake game,**
 14. GUI: ping pong game,
 15. GUI: turtle crossing game,
 16. GUI: snake game with high score,
-17. Bulk email,
-18. US States,
-19. Phonetic alphabet,
-20. Unit converter,
-21. pomodoro timer,
-22. improved password generator,
-23. flash card app,
-24. automated email sending.
+17. App: Bulk email,
+18. GUI: US States,
+19. GUI: Phonetic alphabet,
+20. GUI: Unit converter,
+21. GUI: pomodoro timer,
+22. App: improved password generator,
+23. App: flash card app,
+24. App: automated email sending.
    
 
 
