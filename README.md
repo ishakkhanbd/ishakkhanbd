@@ -2,7 +2,9 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 
 Collections:
 
-**Machine Learning Projects (x30).**
+**Machine Learning Projects (x30): MLProjects.**
+
+General ML projects (x21): 
 1. missing data,
 2. simple linear regression,
 3. multiple linear regression,
@@ -24,6 +26,8 @@ Collections:
 19. reinforcement learning: upper confidence bound,
 20. reinforcement learning: Thomson sampling,
 21. ANN: customer churn prediction,
+
+CNN projects using Tensorflow/Keras (x7): 
 22. Simple Perceptron: predicting flower classification,
 23. Classification: predicting classification of clothes,
 24. Regression: predicting housing prices: sequential API,
@@ -31,12 +35,16 @@ Collections:
 26. CNN: predicting choice of clothes,
 27. **CNN: predicting cat vs dog (avoiding overfitting),**
 28. CNN: facemask detection,
+
+Kaggle projects (x2): 
 29. Kaggle project 1: titanic survival prediction,
-30. Kaggle project 2: housing price prediction. 
+30. Kaggle project 2: housing price prediction,
 
 
 
-**Python Projects (x24).**
+**Python Projects (x24): PythonProjects.**
+
+General Python coding projects (x10): 
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -47,6 +55,8 @@ Collections:
 8. coffee machine,
 9. coffee machine OOP,
 10. q and a OOP,
+
+Making GUI/apps projects (x14): 
 11. GUI: random walk,
 12. GUI: turtle race,
 13. **GUI: snake game,**
