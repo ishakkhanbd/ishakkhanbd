@@ -34,7 +34,7 @@ Collections:
 
 
 
-**Python Projects (x22).**
+**Python Projects (x24).**
 1. password generator,
 2. hangman,
 3. caesar cipher,
@@ -56,7 +56,9 @@ Collections:
 19. Phonetic alphabet,
 20. Unit converter,
 21. pomodoro timer,
-22. improved password generator.
+22. improved password generator,
+23. flash card app,
+24. automated email sending.
    
 
 
