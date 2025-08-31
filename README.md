@@ -32,8 +32,9 @@ Collections:
 26. CNN: predicting choice of clothes,
 27. **CNN: predicting cat vs dog (avoiding overfitting),**
 28. CNN: facemask detection,
-29. Kaggle project 1: titanic survival prediction: decision tree,
+29. Kaggle project 1: titanic survival prediction: decision tree regression,
 30. Kaggle project 2: housing price prediction: random forest regression,
+31. Kaggle project 3: titanic spaceship transfer prediction: random forest regression. 
 
 
 
