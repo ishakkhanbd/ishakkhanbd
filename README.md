@@ -2,7 +2,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 
 Collections:
 
-**Machine Learning Projects (x30): MLProjects.**
+**Machine Learning Projects (x31): MLProjects.**
 
 1. missing data,
 2. simple linear regression,
