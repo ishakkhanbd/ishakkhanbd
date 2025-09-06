@@ -40,7 +40,7 @@ Collections:
 
 
 
-**Python Projects (x24): PythonProjects.**
+**Python Projects (x25): PythonProjects.**
 
 1. password generator,
 2. hangman,
@@ -65,7 +65,8 @@ Collections:
 21. GUI: pomodoro timer,
 22. App: improved password generator,
 23. App: flash card app,
-24. App: automated email sending.
+24. App: automated email sending,
+25. API: International Space Station location.
    
 
 
