@@ -2,7 +2,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 
 Collections:
 
-**Machine Learning Projects (x33): MLProjects.**
+**Machine Learning Projects (x34): MLProjects.**
 
 1. missing data,
 2. simple linear regression,
@@ -36,7 +36,8 @@ Collections:
 30. Kaggle project 2: housing price prediction: random forest regression,
 31. Kaggle project 3: titanic spaceship transfer prediction: random forest regression,
 32. Kaggle project 4: digit recognizer: CNN,
-33. Kaggle project 5: disaster tweet prediction: NLM. 
+33. Kaggle project 5: disaster tweet prediction: NLM,
+34. Kaggle project 6: housing price prediction by random forest regression. 
 
 
 
