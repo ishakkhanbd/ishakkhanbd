@@ -1,6 +1,6 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
-**Machine Learning Projects (x18): Repository: MLProjects.**
+**Machine Learning Projects (x19): Repository: MLProjects.**
 
 1. ANN: customer churn prediction,
 2. Simple Perceptron: predicting flower classification,
@@ -19,5 +19,6 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 15. Kaggle project 8: comparing classification algorithms,
 16. Kaggle project 9: facial keypoint detection: CNN,
 17. IBM project 1: supervised ML: regression: insurance charge prediction,
-18. IBM project 2: supervised ML: classification: heart disease prediction. 
+18. IBM project 2: supervised ML: classification: heart disease prediction,
+19. IBM project 3: unsupervised ML: dry bean clustering. 
 
