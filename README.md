@@ -1,6 +1,6 @@
 This is the Github repository of Md Ishak Khan (ishakkhanbd). 
 
-**Machine Learning Projects (x22): Repository: MLProjects.**
+**Machine Learning Projects (x22): Repository: MLProjects (https://github.com/ishakkhanbd/MLProjects).**
 
 1. ANN: customer churn prediction,
 2. Simple Perceptron: predicting flower classification,
@@ -18,7 +18,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 14. Kaggle project 7: sentiment analysis: NLM,
 15. Kaggle project 8: comparing classification algorithms,
 16. **Kaggle project 9: facial keypoint detection: CNN**
-17. Kaggle project 10: predicting contradiction in sentences, 
+17. Kaggle project 10: predicting contradiction in sentences (NLU/TFBert Model), 
 18. **IBM project 1: supervised ML: regression: insurance charge prediction,**
 19. **IBM project 2: supervised ML: classification: heart disease prediction,**
 20. **IBM project 3: unsupervised ML: dry bean clustering**,
