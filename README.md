@@ -17,7 +17,7 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 13. Kaggle project 6: housing price prediction by random forest regression,
 14. Kaggle project 7: sentiment analysis: NLM,
 15. Kaggle project 8: comparing classification algorithms,
-16. **Kaggle project 9: facial keypoint detection: CNN**
+16. **Kaggle project 9: facial keypoint detection: CNN**,
 17. Kaggle project 10: predicting contradiction in sentences (NLU/TFBert Model), 
 18. **IBM project 1: supervised ML: regression: insurance charge prediction,**
 19. **IBM project 2: supervised ML: classification: heart disease prediction,**
