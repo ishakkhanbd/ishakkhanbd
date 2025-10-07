@@ -25,5 +25,5 @@ This is the Github repository of Md Ishak Khan (ishakkhanbd).
 21. **IBM project 4: Deep Learning: Predicting Brain Tumor,**
 22. **IBM project 5: time series forecasting: predicting car sales**,
 23. Kaggle playground project 1: predicting accident risk: K-fold+XGBoost,
-24. Kaggle playground project 2: predicging BPM for songs: random forest regression. 
+24. Kaggle playground project 2: predicting BPM for songs: random forest regression. 
 
