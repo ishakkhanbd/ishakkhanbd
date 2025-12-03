@@ -2,14 +2,14 @@ Hi there, this is the repository of Md Ishak Khan (ishakkhanbd).
 I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
 My expertise lies in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming portfolio. 
-For constructive criticism, please feel free to reach out to ishak.buet@gmail.com. 
+For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
 
 20+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
 1. Compressor rotor blade,
 2. Shaft support system,
-3. Brdge rope support system,
+3. Bridge rope support system,
 4. Coming soon.
 
 
