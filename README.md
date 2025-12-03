@@ -1,29 +1,56 @@
-This is the Github repository of Md Ishak Khan (ishakkhanbd). 
+Hi there, this is the repository of Md Ishak Khan (ishakkhanbd). 
+I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
+My expertise lies in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
+Please feel free to explore my repositories to have an idea about my design, simulatin,and programming portfolio. 
+For constructive critisim, please feel free to reach out to ishak.buet@gmail.com. 
 
-**Machine Learning Projects (x24): Repository: MLProjects (https://github.com/ishakkhanbd/MLProjects).**
+**Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
+20+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
+1. Compressor rotor blade,
+2. Shaft support system,
+3. Brdge rope support system,
+4. Coming soon.
 
+**Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and COMSOL):** https://github.com/ishakkhanbd/FEA-Projects 
+10+ structural and thermal FEA projects based on intricate engineering problems.
+1. Coming soon. 
+
+**Repository 3: Machine Learning:**
+20+ ML projects on advanced regression and classification based on real datasets. 
+
+a) ML projects based on engineering data: https://github.com/ishakkhanbd/Engineering-ML-Projects
+1. Predicting compressive stress of concrete (regression),
+2. Predicting surface defect types of hot-rolled steel strips (classification),
+3. Predicting surface defect type of semiconductor wafers (classification),
+4. Predicting NASA airfoil self-noise (regression).
+
+b) Additional ML projects: https://github.com/ishakkhanbd/MLProjects
+ML projects as a part of IBM Professional ML Certification:
+1. IBM project 1: supervised ML: regression: insurance charge prediction,
+2. IBM project 2: supervised ML: classification: heart disease prediction,
+3. IBM project 3: unsupervised ML: dry bean clustering,
+4. IBM project 4: Deep Learning: Predicting Brain Tumor,
+5. IBM project 5: time series forecasting: predicting car sales. 
+
+ML projects based on Kaggle datasets: 
+1. Kaggle project 1: titanic survival prediction: decision tree regression,
+2. Kaggle project 2: housing price prediction: random forest regression,
+3. Kaggle project 3: titanic spaceship transfer prediction: random forest regression,
+4. Kaggle project 4: digit recognizer: CNN,
+5. Kaggle project 5: disaster tweet prediction: NLM,
+6. Kaggle project 6: housing price prediction by random forest regression,
+7. Kaggle project 7: sentiment analysis: NLM,
+8. Kaggle project 8: comparing classification algorithms,
+9. Kaggle project 9: facial keypoint detection: CNN,
+10. Kaggle project 10: predicting contradiction in sentences (NLU/TFBert Model), 
+
+Miscallenaous ML projects: 
 1. ANN: customer churn prediction,
 2. Simple Perceptron: predicting flower classification,
 3. Predicting classification of clothes: sequential API,
 4. Regression: predicting housing prices: sequential API,
 5. Regression: predicting housing prices: functional API,
-6. **CNN: predicting cat vs dog (avoiding overfitting),**
-7. CNN: facemask detection,
-8. Kaggle project 1: titanic survival prediction: decision tree regression,
-9. Kaggle project 2: housing price prediction: random forest regression,
-10. **Kaggle project 3: titanic spaceship transfer prediction: random forest regression,**
-11. Kaggle project 4: digit recognizer: CNN,
-12. Kaggle project 5: disaster tweet prediction: NLM,
-13. Kaggle project 6: housing price prediction by random forest regression,
-14. Kaggle project 7: sentiment analysis: NLM,
-15. Kaggle project 8: comparing classification algorithms,
-16. **Kaggle project 9: facial keypoint detection: CNN**,
-17. Kaggle project 10: predicting contradiction in sentences (NLU/TFBert Model), 
-18. **IBM project 1: supervised ML: regression: insurance charge prediction,**
-19. **IBM project 2: supervised ML: classification: heart disease prediction,**
-20. **IBM project 3: unsupervised ML: dry bean clustering**,
-21. **IBM project 4: Deep Learning: Predicting Brain Tumor,**
-22. **IBM project 5: time series forecasting: predicting car sales**,
-23. Kaggle playground project 1: predicting accident risk: K-fold+XGBoost,
-24. Kaggle playground project 2: predicting BPM for songs: random forest regression. 
+6. CNN: predicting cat vs dog (avoiding overfitting),
+7. CNN: facemask detection.
+
 
