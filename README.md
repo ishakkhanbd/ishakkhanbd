@@ -5,26 +5,32 @@ Please feel free to explore my repositories to have an idea about my design, sim
 For constructive critisim, please feel free to reach out to ishak.buet@gmail.com. 
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
+
 20+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
 1. Compressor rotor blade,
 2. Shaft support system,
 3. Brdge rope support system,
 4. Coming soon.
 
+
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and COMSOL):** https://github.com/ishakkhanbd/FEA-Projects 
+
 10+ structural and thermal FEA projects based on intricate engineering problems.
 1. Coming soon. 
+
 
 **Repository 3: Machine Learning:**
 20+ ML projects on advanced regression and classification based on real datasets. 
 
 a) ML projects based on engineering data: https://github.com/ishakkhanbd/Engineering-ML-Projects
+
 1. Predicting compressive stress of concrete (regression),
 2. Predicting surface defect types of hot-rolled steel strips (classification),
 3. Predicting surface defect type of semiconductor wafers (classification),
 4. Predicting NASA airfoil self-noise (regression).
 
 b) Additional ML projects: https://github.com/ishakkhanbd/MLProjects
+
 ML projects as a part of IBM Professional ML Certification:
 1. IBM project 1: supervised ML: regression: insurance charge prediction,
 2. IBM project 2: supervised ML: classification: heart disease prediction,
