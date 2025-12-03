@@ -1,8 +1,8 @@
 Hi there, this is the repository of Md Ishak Khan (ishakkhanbd). 
 I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
 My expertise lies in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
-Please feel free to explore my repositories to have an idea about my design, simulatin,and programming portfolio. 
-For constructive critisim, please feel free to reach out to ishak.buet@gmail.com. 
+Please feel free to explore my repositories to have an idea about my design, simulation,and programming portfolio. 
+For constructive criticism, please feel free to reach out to ishak.buet@gmail.com. 
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
 
