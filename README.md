@@ -1,6 +1,6 @@
 Hi there, this is the repository of Md Ishak Khan (ishakkhanbd). 
 I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
-My expertise lies in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
+I have 9+ years of expertise in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming portfolio. 
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
@@ -28,7 +28,7 @@ a) ML projects based on engineering data: https://github.com/ishakkhanbd/Enginee
 2. Predicting surface defect types of hot-rolled steel strips (classification),
 3. Predicting surface defect type of semiconductor wafers (classification),
 4. Predicting NASA airfoil self-noise (regression),
-5. Predicting defect in image: representative dataset generation, training, prediction for unseen images by end-to-end user interface/app (classification).
+5. Scratch detecting in image: representative dataset generation, training, and prediction for unseen images by end-to-end user interface/app (classification).
 
 b) Additional ML projects: https://github.com/ishakkhanbd/MLProjects
 
