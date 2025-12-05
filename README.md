@@ -18,7 +18,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 10+ structural and thermal FEA projects based on intricate engineering problems.
 1. Static structural analysis of a mounting bracket (ABAQUS),
 2. Static structural response of a beam with multiple loading (ABAQUS),
-3. Coming soon. 
+3. Heat transfer analysis of a fin (ABAQUS), 
+4. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
