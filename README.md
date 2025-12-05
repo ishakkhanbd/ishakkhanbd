@@ -16,7 +16,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and COMSOL):** https://github.com/ishakkhanbd/FEA-Projects 
 
 10+ structural and thermal FEA projects based on intricate engineering problems.
-1. Coming soon. 
+1. Static structural analysis of a mounting bracket,
+2. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
