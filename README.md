@@ -10,7 +10,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 1. Compressor rotor blade,
 2. Shaft support system,
 3. Bridge rope support system,
-4. Coming soon.
+4. Valve assembly, 
+5. Coming soon.
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and COMSOL):** https://github.com/ishakkhanbd/FEA-Projects 
