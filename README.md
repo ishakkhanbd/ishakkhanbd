@@ -12,10 +12,11 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 3. Bridge rope support system,
 4. Valve assembly, 
 5. Agitator roller system, 
-6. Coming soon.
+6. Screw Jack System, 
+7. Coming soon.
 
 
-**Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and COMSOL):** https://github.com/ishakkhanbd/FEA-Projects 
+**Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, COMSOL, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
 
 10+ structural and thermal FEA projects based on intricate engineering problems.
 1. Static structural analysis of a mounting bracket (ABAQUS),
