@@ -27,7 +27,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 4. Crack propagation in a thin plate (ABAQUS),
 5. Deformation of a bimetallic strip due to thermal expansion (ABAQUS), 
 6. Contact analysis of a hollow block (ABAQUS),
-7. Coming soon. 
+7. Viscoelastic response of epoxy: creep test (ABAQUS), 
+8. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
