@@ -16,7 +16,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 7. Coming soon.
 
 
-**Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, COMSOL, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
+**Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
 
 10+ structural and thermal FEA projects based on intricate engineering problems.
 1. Static structural analysis of a mounting bracket (ABAQUS),
@@ -24,7 +24,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 3. Heat transfer analysis of a fin (ABAQUS), 
 4. Crack propagation in a thin plate (ABAQUS),
 5. Deformation of a bimetallic strip due to thermal expansion (ABAQUS), 
-6. Coming soon. 
+6. Contact analysis of a hollow block (ABAQUS),
+7. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
