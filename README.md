@@ -42,7 +42,7 @@ a) ML projects based on engineering data: https://github.com/ishakkhanbd/Enginee
 2. Predicting surface defect types of hot-rolled steel strips (classification),
 3. Predicting surface defect type of semiconductor wafers (classification),
 4. Predicting NASA airfoil self-noise (regression),
-5. Scratch detecting in image: representative dataset generation, training, and prediction for unseen images by end-to-end user interface/app (classification).
+5. Scratch/defect detection in image: representative dataset generation, training, and prediction for unseen images by end-to-end user interface/app (classification).
 
 b) Additional ML projects: https://github.com/ishakkhanbd/MLProjects
 
