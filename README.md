@@ -15,7 +15,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 6. Screw Jack System, 
 7. Turbine rotor blade (coming soon),
 8. CAM follower mechanism,
-9. Coming soon.
+9. Shaft fork system, 
+10. Coming soon.
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
