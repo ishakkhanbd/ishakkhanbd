@@ -31,7 +31,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 7. Viscoelastic response of epoxy: creep test (ABAQUS), 
 8. Material and geometric nonlinearity (ABAQUS), 
 9. Static structural deformation in a fine meshed sub-model (ABAQUS),  
-10. Coming soon. 
+10. Heat conduction in a flip chip semiconductor package (ABAQUS),
+11. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
