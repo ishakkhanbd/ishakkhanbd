@@ -30,7 +30,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 6. Contact analysis of a hollow block (ABAQUS),
 7. Viscoelastic response of epoxy: creep test (ABAQUS), 
 8. Material and geometric nonlinearity (ABAQUS), 
-9. Coming soon. 
+9. Static structural deformation in a fine meshed sub-model (ABAQUS),  
+10. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
