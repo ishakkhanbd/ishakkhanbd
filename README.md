@@ -6,7 +6,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
 
-20+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
+10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
 1. Compressor rotor blade,
 2. Shaft support system,
 3. Bridge rope support system,
