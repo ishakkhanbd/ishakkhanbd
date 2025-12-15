@@ -33,7 +33,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 9. Static structural deformation in a fine meshed sub-model (ABAQUS),  
 10. Heat conduction in a flip chip semiconductor package (ABAQUS),
 11. Semiconductor package structural deformation due to thermal condition (ANSYS), 
-12. Coming soon. 
+12. Fluid flow in a pipe with sudden expansion (ANSYS FLUENT),
+13. Coming soon. 
 
 
 **Repository 3: Machine Learning:**
