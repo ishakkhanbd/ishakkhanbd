@@ -10,7 +10,6 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 3. Machine Learning (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
-
 10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
 1. Compressor rotor blade,
 2. Shaft support system,
@@ -26,7 +25,6 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
-
 10+ structural and thermal FEA projects based on intricate engineering problems.
 1. Static structural analysis of a mounting bracket (ABAQUS),
 2. Static structural response of a beam with multiple loading (ABAQUS),
@@ -43,7 +41,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 13. Coming soon. 
 
 
-**Repository 3: Machine Learning:**
+**Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
 20+ ML projects on advanced regression and classification based on real datasets. 
 
 a) ML projects based on engineering data: https://github.com/ishakkhanbd/Engineering-ML-Projects
