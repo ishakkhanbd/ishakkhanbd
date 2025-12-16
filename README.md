@@ -4,6 +4,11 @@ I have 9+ years of expertise in 3 areas: **Mechanical Design, FEA, and Machine L
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming portfolio. 
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
+**Summary of Portfolio: **
+1. Mechanical Design (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
+2. Finite Element Analysis (ABAQUS, ANSYS, ICEPAK): 10+ structural and thermal FEA projects based on engineering problems.
+3. Machine Learning (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
+
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
 
 10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
@@ -16,7 +21,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 7. Turbine rotor blade (coming soon),
 8. CAM follower mechanism,
 9. Shaft fork system, 
-10. Coming soon.
+10. Wood lathe tool rest holder, 
+11. Coming soon.
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
