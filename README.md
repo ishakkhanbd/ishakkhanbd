@@ -1,6 +1,6 @@
 Hi there, this is the repository of Md Ishak Khan (ishakkhanbd). 
 I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
-I have 9+ years of expertise in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
+I have 9+ years of experience in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming portfolio. 
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
@@ -17,11 +17,10 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 4. Valve assembly, 
 5. Agitator roller system, 
 6. Screw Jack System, 
-7. Turbine rotor blade (coming soon),
-8. CAM follower mechanism,
-9. Shaft fork system, 
-10. Wood lathe tool rest holder, 
-11. Coming soon.
+7. CAM follower mechanism,
+8. Shaft fork system, 
+9. Wood lathe tool rest holder, 
+10. Coming soon.
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
