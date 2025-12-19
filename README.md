@@ -5,7 +5,7 @@ Please feel free to explore my repositories to have an idea about my design, sim
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
 **Summary of Portfolio:**
-1. Mechanical Design (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
+1. Mechanical Design (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly modeling, eng. drawing, and advanced functionality of SolidWorks.
 2. Finite Element Analysis (ABAQUS, ANSYS, ICEPAK): 10+ structural and thermal FEA projects based on engineering problems.
 3. Machine Learning (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
 
