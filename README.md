@@ -20,7 +20,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 7. CAM follower mechanism,
 8. Shaft fork system, 
 9. Wood lathe tool rest holder, 
-10. Coming soon.
+10. Knuckle joint,
+11. Coming soon.
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
