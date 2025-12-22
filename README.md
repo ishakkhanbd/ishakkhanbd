@@ -21,8 +21,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 8. Shaft fork system, 
 9. Wood lathe tool rest holder, 
 10. Knuckle joint,
-11. Nut cracker, 
-12. Coming soon.
+11. Nut cracker. 
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
@@ -39,7 +38,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 10. Heat conduction in a flip chip semiconductor package (ABAQUS),
 11. Semiconductor package structural deformation due to thermal condition (ANSYS), 
 12. Fluid flow in a pipe with sudden expansion (ANSYS FLUENT),
-13. Coming soon. 
+13. Eddy current calculation of an electromagnetic Brake (ANSYS Maxwell). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
