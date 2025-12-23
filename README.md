@@ -38,7 +38,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 10. Heat conduction in a flip chip semiconductor package (ABAQUS),
 11. Semiconductor package structural deformation due to thermal condition (ANSYS), 
 12. Fluid flow in a pipe with sudden expansion (ANSYS FLUENT),
-13. Eddy current calculation of an electromagnetic Brake (ANSYS Maxwell). 
+13. Eddy current calculation of an electromagnetic Brake (ANSYS Maxwell),
+14. Comparison between deformation of two pipe materials (ANSYS). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
