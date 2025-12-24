@@ -11,19 +11,19 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 
 **Repository 1: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
 10+ projects on complex mechanical part modeling, design configuration, assembly, drafting, and advanced functionality of SolidWorks.
-1. Compressor rotor blade,
-2. Shaft support system,
-3. Bridge rope support system,
-4. Valve assembly, 
-5. Agitator roller system, 
-6. Screw Jack System, 
-7. CAM follower mechanism,
-8. Shaft fork system, 
-9. Wood lathe tool rest holder
-10. V block assembly, 
-11. Knuckle joint,
-12. Nut cracker,
-13. Pulley Support. 
+1. Compressor rotor blade (Application: aerospace),
+2. Shaft support system (Application: automotive, manufacturing),
+3. Bridge rope support system (Application: structures (bridges)),
+4. Valve assembly (Application: HVAC system), 
+5. Agitator roller system (Application: mining, water treatment), 
+6. Screw Jack System (Application: construction, aerospace), 
+7. CAM follower mechanism (Application: IC engine, heavy machinery),
+8. Shaft fork system (Application: forklift), 
+9. Wood lathe tool rest holder (Application: carpentry, precision machinery), 
+10. V block assembly (Application: metal work), 
+11. Knuckle joint (Application: structures (roof trusses, bridges)),
+12. Nut cracker (Application: food and beverage processing industry),
+13. Pulley Support (Application: heavy lifting, mechanical systems). 
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
