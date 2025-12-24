@@ -19,9 +19,11 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 6. Screw Jack System, 
 7. CAM follower mechanism,
 8. Shaft fork system, 
-9. Wood lathe tool rest holder, 
-10. Knuckle joint,
-11. Nut cracker. 
+9. Wood lathe tool rest holder
+10. V block assembly, 
+11. Knuckle joint,
+12. Nut cracker,
+13. Pulley Support. 
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
