@@ -1,5 +1,5 @@
 Hi there, this is the portfolio of Md Ishak Khan (ishakkhanbd). 
-I hold a PhD in Mechanical Engineering and work in the semiconductor industry. 
+I have a PhD in Mechanical Engineering and work in the semiconductor industry. 
 I have 9+ years of experience in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming expertise. 
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
