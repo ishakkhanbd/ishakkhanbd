@@ -43,7 +43,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 13. Eddy current calculation of an electromagnetic Brake (ANSYS Maxwell),
 14. Comparison between deformation of two pipe materials (ANSYS Static Structural),
 15. Comparison between total heat flux of two pipe materials (ANSYS Steady State Thermal),
-16. Modal analysis of a water pipe (ANSYS Modal). 
+16. Modal analysis of a water pipe (ANSYS Modal),
+17. Calculating pressure inside a water pipe (ANSYS FLUENT). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
