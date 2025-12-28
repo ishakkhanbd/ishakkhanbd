@@ -46,7 +46,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 15. Comparison between total heat flux of two pipe materials (ANSYS Steady State Thermal),
 16. Modal analysis of a water pipe (ANSYS Modal),
 17. Calculating pressure inside a water pipe (ANSYS FLUENT),
-18. Analyzing fluid flow inside a convergent-divergent nozzle (ANSYS FLUENT). 
+18. Analyzing fluid flow inside a convergent-divergent nozzle (ANSYS FLUENT),
+19. Explicit dynamics simulation of a gate valve (ANSYS Explicit). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
