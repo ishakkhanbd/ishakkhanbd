@@ -23,7 +23,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 10. V block assembly (Application: metal work), 
 11. Knuckle joint (Application: structures (roof trusses, bridges)),
 12. Nut cracker (Application: food and beverage processing industry),
-13. Pulley Support (Application: heavy lifting, mechanical systems). 
+13. Pulley Support (Application: heavy lifting, mechanical systems),
+14. Yoke connection (Application: automotive, aerospace). 
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
