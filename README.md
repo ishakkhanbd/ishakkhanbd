@@ -47,7 +47,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 16. Modal analysis of a water pipe (ANSYS Modal),
 17. Calculating pressure inside a water pipe (ANSYS FLUENT),
 18. Analyzing fluid flow inside a convergent-divergent nozzle (ANSYS FLUENT),
-19. Explicit dynamics simulation of a gate valve (ANSYS Explicit). 
+19. Explicit dynamics simulation of a gate valve (ANSYS Explicit),
+20. Fluid flow over a NACA 0012 airfoil (ANSYS FLUENT). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
