@@ -48,7 +48,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 17. Calculating pressure inside a water pipe (ANSYS FLUENT),
 18. Analyzing fluid flow inside a convergent-divergent nozzle (ANSYS FLUENT),
 19. Explicit dynamics simulation of a gate valve (ANSYS Explicit),
-20. Fluid flow over a NACA 0012 airfoil (ANSYS FLUENT). 
+20. Fluid flow over a NACA 0012 airfoil (ANSYS FLUENT),
+21. Temperature at the material interfaces of a composite wall (ANSYS Thermal). 
 
 
 **Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
