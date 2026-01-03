@@ -24,7 +24,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 11. Knuckle joint (Application: structures (roof trusses, bridges)),
 12. Nut cracker (Application: food and beverage processing industry),
 13. Pulley Support (Application: heavy lifting, mechanical systems),
-14. Yoke connection (Application: automotive, aerospace). 
+14. Yoke connection (Application: automotive, aerospace),
+15. Sheet Metal Mounting Bracket (Application: Construction, Machinery). 
 
 
 **Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
