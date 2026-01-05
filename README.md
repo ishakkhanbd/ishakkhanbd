@@ -26,7 +26,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 13. Pulley Support (Application: heavy lifting, mechanical systems),
 14. Yoke connection (Application: automotive, aerospace),
 15. Sheet Metal Mounting Bracket (Application: Construction, Machinery),
-16. Sheet Metal Crop Divider Support Bracket (Application: Agriculture, Machinery). 
+16. Sheet Metal Crop Divider Support Bracket (Application: Agriculture, Machinery),
+17. Butterfly Valve (Appilcation: HVAC). 
 
 
 **✅ Repository 2: FEA (Structural and Thermal simulation by ABAQUS, ANSYS, and ICEPAK):** https://github.com/ishakkhanbd/FEA-Projects 
