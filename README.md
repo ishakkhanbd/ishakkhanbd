@@ -54,7 +54,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 20. Fluid flow over a NACA 0012 airfoil (ANSYS FLUENT),
 21. Temperature at the material interfaces of a composite wall (ANSYS Thermal),
 22. Static analysis of a composite layup (3D shell) (ABAQUS),
-23. Torsional analysis of a bar (ANSYS Static Structural). 
+23. Torsional analysis of a bar (ANSYS Static Structural),
+24. Buckling of a cylinder (ABAQUS Linear Perturbation: Buckling). 
 
 
 **✅ Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
