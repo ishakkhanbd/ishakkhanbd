@@ -55,7 +55,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 21. Temperature at the material interfaces of a composite wall (ANSYS Thermal),
 22. Static analysis of a composite layup (3D shell) (ABAQUS),
 23. Torsional analysis of a bar (ANSYS Static Structural),
-24. Buckling of a cylinder (ABAQUS Linear Perturbation: Buckling). 
+24. Buckling of a cylinder (ABAQUS Linear Perturbation: Buckling),
+25. Deformation of a plate with multiple holes (ABAQUS). 
 
 
 **✅ Repository 3: Machine Learning (Python, TensorFlow, PyTorch):**
