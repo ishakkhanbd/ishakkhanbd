@@ -1,6 +1,6 @@
 Hi there, this is the portfolio of Md Ishak Khan (ishakkhanbd). 
 I have a PhD in Mechanical Engineering and work in the semiconductor industry. 
-I have 9+ years of experience in 3 areas: **Mechanical Design, FEA, and Machine Learning**. 
+I have 9+ years of experience in 3 areas: **Mechanical Design (Certified SolidWorks Professional CSWP), FEA (Certified in Advanced FEA by ASME), and Machine Learning (Professional Certification from IBM)**. 
 Please feel free to explore my repositories to have an idea about my design, simulation,and programming expertise. 
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
