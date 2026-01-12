@@ -11,9 +11,15 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 4. **Machine Learning** (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
 
 
-**✅ Repository 1: Real Engineering Problem Projects (Python, Machine Learning):** https://github.com/ishakkhanbd/RealEngineeringProblemProjects
+**✅ Repository 1: Real Engineering Problem Projects (Python, Machine Learning, Statistical Modeling):** https://github.com/ishakkhanbd/RealEngineeringProblemProjects
 1. Manufacturing Scratch Detection: Pixel Analyzer Script (Python).
-2. Automated tool log and alarm extraction script (Python). 
+2. Automated tool log and alarm extraction script (Python),
+3. Virtual DOE: Yield vs Process Window Optimizer (Python),
+4. Vacuum Pump-down Estimator: Outgassing/Leak Modeling (Python, ML).
+5. Thermal Stack Transient Temperature Solver (Python),
+6. GD&T Tolerance Stack-Up Risk Analyzer by Monte Carlo Simulation (Python),
+7. Profilometer Metrology Image Classification (Python, Tensorflow),
+8. Hierarchical Overlay DPM Predictor (Python, Statistical Modeling).
 
 
 **✅ Repository 2: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
