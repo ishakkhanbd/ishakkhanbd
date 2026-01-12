@@ -5,12 +5,13 @@ Please feel free to explore my repositories to have an idea about my design, sim
 For constructive criticism, please feel free to reach out at ishak.buet@gmail.com. 
 
 **Summary of Portfolio:**
-1. **Mechanical Design** (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly modeling, eng. drawing, and advanced functionality of SolidWorks.
-2. **Finite Element Analysis** (ABAQUS, ANSYS, ICEPAK): 10+ structural and thermal FEA projects based on engineering problems.
-3. **Machine Learning** (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
+1. **Real Engineering Problem Projects** (Solving Industry/Manufacturing problems by using Python, ML, and Automation): 5+ system level, cross-functional projects that solve real-world manufacturing problems.  
+2. **Mechanical Design** (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly modeling, eng. drawing, and advanced functionality of SolidWorks.
+3. **Finite Element Analysis** (ABAQUS, ANSYS, ICEPAK): 10+ structural and thermal FEA projects based on engineering problems.
+4. **Machine Learning** (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
 
 
-**✅ Repository 1: Real Engineering Problem Projects:** https://github.com/ishakkhanbd/RealEngineeringProblemProjects
+**✅ Repository 1: Real Engineering Problem Projects (Python, Machine Learning):** https://github.com/ishakkhanbd/RealEngineeringProblemProjects
 1. Manufacturing Scratch Detection: Pixel Analyzer Script (Python).
 2. Automated tool log and alarm extraction script (Python). 
 
