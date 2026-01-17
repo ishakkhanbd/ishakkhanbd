@@ -19,7 +19,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 5. Thermal Stack Transient Temperature Solver (Python),
 6. GD&T Tolerance Stack-Up Risk Analyzer by Monte Carlo Simulation (Python),
 7. Profilometer Metrology Image Classification (Python, Tensorflow),
-8. Hierarchical Overlay DPM Predictor (Python, Statistical Modeling).
+8. Hierarchical Overlay DPM Predictor (Python, Statistical Modeling),
+9. Cross-platform project: parametric mechanical modeling, batch FEA analysis, and manufacturability prediction by ML (SolidWorks, ANSYS, ML).
 
 
 **✅ Repository 2: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
