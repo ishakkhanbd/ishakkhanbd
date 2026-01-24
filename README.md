@@ -20,7 +20,8 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 6. GD&T Tolerance Stack-Up Risk Analyzer by Monte Carlo Simulation (Python),
 7. Profilometer Metrology Image Classification (Python, Tensorflow),
 8. Hierarchical Overlay DPM Predictor (Python, Statistical Modeling),
-9. Cross-platform project: parametric CAD modeling, batch FEA analysis, and manufacturability prediction by ML for a mechanical part (SolidWorks, ANSYS, ML).
+9. Cross-platform project: parametric CAD modeling, batch FEA analysis, and manufacturability prediction by ML for a mechanical part (SolidWorks, ANSYS, ML),
+10. Semiconductor package and fine feature sub modeling (ABAQUS).
 
 
 **✅ Repository 2: Mechanical Design (SolidWorks):** https://github.com/ishakkhanbd/SolidWorks-Projects  
