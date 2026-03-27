@@ -9,6 +9,7 @@ For constructive criticism, please feel free to reach out at ishak.buet@gmail.co
 2. **Mechanical Design** (SolidWorks): 10+ projects on complex mechanical part modeling, design configuration, assembly modeling, eng. drawing, and advanced functionality of SolidWorks.
 3. **Finite Element Analysis** (ABAQUS, ANSYS, ICEPAK): 10+ structural and thermal FEA projects based on engineering problems.
 4. **Machine Learning** (Python, TensorFlow, PyTorch): 20+ ML projects on advanced regression and classification based on real datasets.
+5. **Agentic AI** and Real Manufacturing/Business Problem Solution (Python, LLM): 5+ Agentic AI and automated solutions based on real-world manufacturing and business problems. 
 
 
 **✅ Repository 1: Real Engineering Problem Projects (Python, Machine Learning, Statistical Modeling):** https://github.com/ishakkhanbd/RealEngineeringProblemProjects
@@ -117,4 +118,7 @@ Miscallenaous ML projects:
 6. CNN: predicting cat vs dog (avoiding overfitting),
 7. CNN: facemask detection.
 
+**✅ Repository 5: Agentic AI and Real Manufacturing/Business Problem Solution (Python, LLM):** https://github.com/ishakkhanbd/AgenticAIProjects
+1. Manufacturing RCA Analyzer: Root cause analyzer for manufacturing data (Code: Python, UI: Ipywidgets, Tkinter).
+2. Thremal fluid simulation optimization: Coming soon. 
 
