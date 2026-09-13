@@ -119,6 +119,10 @@ Miscallenaous ML projects:
 7. CNN: facemask detection.
 
 **✅ Repository 5: Agentic AI and Real Manufacturing/Business Problem Solution (Python, LLM):** https://github.com/ishakkhanbd/AgenticAIProjects
-1. Manufacturing RCA Analyzer: Root cause analyzer for manufacturing data (Code: Python, UI: Ipywidgets, Tkinter).
-2. Thremal fluid simulation optimization: Coming soon. 
+1. Semiconductor equipment assistant: answers questions about a spec sheet (LLM function call),
+2. Root cause/failure analysis agents: analyzes failure modes for yield or mechanical breakdown (OpenAI SDK), 
+3. Equipment vendor selector: analyzes specs and selects the best component for a tool build (CrewAI),
+4. ECO Presenter: researches a design decision and creates a structured PPT (LangGraph, LangChain),
+5. CAD data bot: enforces design validation (Pydandic AI/OpenAI Agent Framework),
+6. Fab Operation Control room: simulates a fab operation control room including process/yield engineers to schedule PM (MCP). 
 
