@@ -123,6 +123,6 @@ Miscallenaous ML projects:
 2. Root cause/failure analysis agents: a team of agents that researches failure modes of semiconductor equipment (OpenAI SDK), 
 3. Equipment vendor selector: analyzes specs and selects the best component for a tool build (CrewAI),
 4. ECO Presenter: researches a design decision and creates a structured PPT (LangGraph, LangChain),
-5. CAD data bot: enforces design validation (Pydandic AI/OpenAI Agent Framework),
+5. Tech translator: translates information for tech workers (Pydandic AI/OpenAI Agent Framework),
 6. Fab Operation Control room: simulates a fab operation control room including process/yield engineers to schedule PM (MCP). 
 
